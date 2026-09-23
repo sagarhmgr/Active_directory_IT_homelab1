@@ -231,31 +231,6 @@ This lab provided hands-on practice with:
 
 ---
 
-# 📸 Screenshots
-
-Screenshots documenting the implementation are included in the project documentation.
-
-Recommended screenshot structure:
-
-```text
-screenshots/
-│
-├── 01-static-ip-dc.png
-├── 02-dc-ipconfig.png
-├── 03-dc-hostname.png
-├── 04-file-server-network.png
-├── 05-file-server-hostname.png
-├── 06-ad-ds-installation.png
-├── 07-ad-ds-tools.png
-├── 08-domain-controller-promotion.png
-├── 09-domain-configuration.png
-├── 10-ad-prerequisite-check.png
-├── 11-domain-admin-login.png
-└── 12-file-server-domain-join.png
-```
-
----
-
 # 📄 Project Documentation
 
 Detailed step-by-step documentation is available in:
